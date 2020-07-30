@@ -1,0 +1,12 @@
+Hola ¿Cómo estás?
+Está muy bien tu trabajo. Te dejo algunas sugerencias:
+
+Sobre el botón borrar del final, hay libertad para dejarlo fuera de la tabla, o dentro.
+Para incluírlo dentro.
+
+<tr>
+  <td colspan="4">
+     <button style="width:100%">Delete</button>
+  </td>
+</tr>
+
